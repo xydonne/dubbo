@@ -27,7 +27,7 @@ dubbos主要是基于dubbox的基础上，进行进一步的优化及拓展
 
 * **修正了dubbo的bug** 包括配置、序列化、管理界面等等的bug。
 
-**注：dubbox和dubbo 2.x是兼容的，没有改变dubbo的任何已有的功能和配置方式（除了升级了spring之类的版本）**
+**注：dubbos和dubbo 2.x是兼容的，没有改变dubbo的任何已有的功能和配置方式（除了升级了spring之类的版本）**
 
 ## 文档资料
 
