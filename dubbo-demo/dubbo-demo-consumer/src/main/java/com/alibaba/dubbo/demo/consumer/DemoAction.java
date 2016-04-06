@@ -82,7 +82,7 @@ public class DemoAction {
         System.out.println("SUCCESS: registered user with id " + anotherUserRestService.registerUser(user).getId());
 
         RpcContext.getContext().setAttachment("clientName", "demo");
-        RpcContext.getContext().setAttachment("clientImpl", "dubbox");
+        RpcContext.getContext().setAttachment("clientImpl", "dubbos");
         System.out.println("SUCCESS: got user " + anotherUserRestService.getUser(1L));
     }
 

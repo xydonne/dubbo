@@ -1,6 +1,6 @@
 目的：
-快速的使用 maven archetype 进行 dubbox rest 项目工程搭建。
-本处默认从 dubbo-demo-lite 构建一个 rest 版本的 dubbox 框架结构。
+快速的使用 maven archetype 进行 dubbos rest 项目工程搭建。
+本处默认从 dubbo-demo-lite 构建一个 rest 版本的 dubbos 框架结构。
 
 命令参考：
 
@@ -50,7 +50,7 @@ version: 1.0-SNAPSHOT
 package: com.tima.test3
  Y: : Y
 [INFO] ----------------------------------------------------------------------------
-[INFO] Using following parameters for creating project from Archetype: dubbo-demo-lite-archetype:2.8.3
+[INFO] Using following parameters for creating project from Archetype: dubbo-demo-lite-archetype:3.0.1
 [INFO] ----------------------------------------------------------------------------
 [INFO] Parameter: groupId, Value: com.tima
 [INFO] Parameter: artifactId, Value: test3
