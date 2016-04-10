@@ -1,6 +1,6 @@
 #dubbos
 dubbos主要是基于dubbox的基础上，进行进一步的优化及拓展
-demo地址:[https://git.oschina.net/qilong/dubbos-demo](https://git.oschina.net/qilong/dubbos-demo)
+* demo地址:[https://git.oschina.net/qilong/dubbos-demo](https://git.oschina.net/qilong/dubbos-demo)
 
 ## 主要贡献者
 
@@ -31,6 +31,8 @@ demo地址:[https://git.oschina.net/qilong/dubbos-demo](https://git.oschina.net/
 **注：dubbos和dubbo 2.x是兼容的，没有改变dubbo的任何已有的功能和配置方式（除了升级了spring之类的版本）**
 
 ## 文档资料
+
+[阿里巴巴Dubbo开发者指南](http://dubbo.io/Home-zh.htm)
 
 [在Dubbo中开发REST风格的远程调用（RESTful Remoting）](http://dangdangdotcom.github.io/dubbox/rest.html)
 
