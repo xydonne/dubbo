@@ -1,5 +1,6 @@
 #dubbos
 dubbos主要是基于dubbox的基础上，进行进一步的优化及拓展
+demo地址:[https://git.oschina.net/qilong/dubbos-demo](https://git.oschina.net/qilong/dubbos-demo)
 
 ## 主要贡献者
 
