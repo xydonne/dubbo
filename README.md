@@ -1,10 +1,13 @@
 #dubbos
 dubbos主要是基于dubbox的基础上，进行进一步的优化及拓展
+
 * demo地址:[https://git.oschina.net/qilong/dubbos-demo](https://git.oschina.net/qilong/dubbos-demo)
 
 ## 主要贡献者
 
 * 齐龙 [乐影网](http://www.leying.com/) qilongjava@163.com
+
+* 项目刚刚分支出来，鄙人技术有限，希望各位大牛一同参与，共同开发
 
 **讨论QQ群**： 93849809  （不限于dubbos，包括SOA设计、互联网技术等等兴趣交流）
 
