@@ -6,6 +6,8 @@ dubbos主要是基于dubbox的基础上，进行进一步的优化及拓展
 ## 主要贡献者
 
 * 齐龙 [乐影网](http://www.leying.com/) qilongjava@163.com
+* 陈立 329790217@qq.com
+* 颜守登  yanshoudeng123@163.com
 
 * 项目刚刚分支出来，鄙人技术有限，希望各位大牛一同参与，共同开发
 
