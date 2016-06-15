@@ -1,26 +1,26 @@
 [![Build Status](https://travis-ci.org/alibaba/dubbo.svg?branch=master)](https://travis-ci.org/alibaba/dubbo) [![Gitter](https://badges.gitter.im/alibaba/dubbo.svg)](https://gitter.im/alibaba/dubbo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Dubbo is a distributed, high performance RPC framework enpowering applications with service import/export capabilities.
+Dubbo is a distributed, high performance RPC framework which empowers applications with service import/export capabilities.
 
-It's composed of three key parts:
+It contains three key parts, which include:
 
-* Remoting: a network communication framework provides sync-over-async and request-response messaging.
-* Clustering: a remote procedure call abstraction with load-balancing/failover/clustering capabilities.
-* Registry: a service directory framework for service registration and service event publish/subscription
+* **Remoting**: a network communication framework providing sync-over-async and request-response messaging.
+* **Clustering**: a remote procedure call abstraction with load-balancing/failover/clustering capabilities.
+* **Registration**: a service directory framework for service registration and service event publish/subscription
 
-For more details, please refer to wiki or [dubbo.io](http://dubbo.io).
+For more details, please refer to [wiki](https://github.com/alibaba/dubbo/wiki) or [dubbo.io](http://dubbo.io).
 
 ## Quick Start
 
 
-Export remote service:
+Export service:
 
 ```xml
 <bean id="barService" class="com.foo.BarServiceImpl" />
 <dubbo:service interface="com.foo.BarService" ref="barService" />
 ```
 
-Refer remote service:
+Refer to service:
 
 ```xml
 <dubbo:reference id="barService" interface="com.foo.BarService" />
